@@ -1,5 +1,8 @@
 # Simple Micro-services demo app on Docker
 
+- [Introduction](#introduction)
+- [Steps](#steps)
+- [Detached Mode](#detached-mode)
 
 Introduction
 =============
